@@ -16,7 +16,7 @@ class Car {
 
 void main() {
   // Create an instance of Car
-  Car myCar = Car("Toyota", "Corolla", 2015);
+  Car myCar = Car("Tata", "Tata Ace100", 2015);
 
   // Display information
   print("Brand: ${myCar.brand}");
